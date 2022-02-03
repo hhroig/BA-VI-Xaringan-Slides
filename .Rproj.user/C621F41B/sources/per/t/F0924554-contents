@@ -1839,7 +1839,7 @@ x <- if (y < 20) "Too low" else "Too high"
 
 --
 
-* ### Otro muy útil: `ifelse(test, yes, no)`
+* ### Otro muy útil (pero lento): `ifelse(test, yes, no)`
 
 ---
 
@@ -2561,7 +2561,22 @@ knitr::include_graphics("my_images/shiny_logo.jpg")
 
 ]]
 
+---
 
+# 4. Comunicar
+
+### ¡El último ejercicio!
+
+* Queremos construir un  [Flexdashboards](https://rmarkdown.rstudio.com/flexdashboard/index.html) para nuestro análisis de los datos `who` de Tuberculosis.
+
+* Vamos a usar estos dos ejemplos como punto de partida: 
+ 1. [Shiny: ggplot2 linked brushingg](https://jjallaire.shinyapps.io/shiny-ggplot2-brushing/)
+ 2. [Shiny biclust example](https://jjallaire.shinyapps.io/shiny-biclust/)
+
+* Podríamos intentar, por ejemplo:
+ * incluir las series temporales para cada sexo y agrupadas por edad,
+ * incluir una tabla de resumen numérico,
+ * como hay mucha información, esta tabla debería ser solo para año y país seleccionado por el usuario.
 
 ---
 # ¡Gracias por aguantar hasta el final!
