@@ -3,7 +3,7 @@
     "path": "C:/Users/hhroi/OneDrive - Universidad Carlos III de Madrid/Big_Analytics_Ed6/Intro-R/BA-VI-xaringan-slides/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2199166093",
+    "hash": "1557363651",
     "contents": "",
     "dirty": false,
     "created": 1643714793571.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2578,103",
-        "scrollLine": "2566"
+        "cursorPosition": "771,7",
+        "scrollLine": "766"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643918145,
+    "lastKnownWriteTime": 1644058507,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643918145271,
+    "last_content_update": 1644058507495,
     "read_only": false,
     "read_only_alternatives": []
 }

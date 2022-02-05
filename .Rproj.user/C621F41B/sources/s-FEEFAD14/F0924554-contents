@@ -769,7 +769,7 @@ knitr::include_graphics("my_images/wrangler_meme_3.jpg")
 
 ```{r ej:tibble1, eval=FALSE }
 iris
-as_tible(iris)
+as_tibble(iris)
 ```
 
 --
